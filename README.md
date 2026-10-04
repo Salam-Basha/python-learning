@@ -47,7 +47,8 @@ Build a strong foundation in Python and eventually use Python
 | File | Topic |
 |---|---|
 | `hello_world.py` | First Python program |
-| `lesson_01_variables.py` | Variables & data types |
+| `lesson_01_variables.py` | Variables |
+|`lesson_2_data types & type()` |data types & type() |
 
 ---
 
