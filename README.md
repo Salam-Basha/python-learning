@@ -55,7 +55,7 @@ Build a strong foundation in Python and eventually use Python
 
 
 
-```
+<!--
 ## Phase 2 — Python Core
 
 - [ ] 21. Strings
@@ -191,3 +191,4 @@ Build a strong foundation in Python and eventually use Python
 - [ ] 121. Portfolio-quality AI/ML Projects 🚀
 
 ---
+-->
