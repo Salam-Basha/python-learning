@@ -16,7 +16,7 @@ My approach:
 ## Phase 1 — Foundations
 
 - [x] 1. Python fundamentals & variables
-- [ ] 2. Data types & `type()`
+- [x] 2. Data types & `type()`
 - [ ] 3. Input & user interaction
 - [ ] 4. Type conversion
 - [ ] 5. Arithmetic operators
