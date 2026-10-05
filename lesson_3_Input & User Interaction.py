@@ -32,7 +32,6 @@ name = input("enter your name :")
 age = input("enter your age :")
 language = input("fav language :")
 game = input("FAV game :")
-
 print("hello ,my name is ",name)
 print("i am",age,"yrs old")
 print("i am learning",language)
