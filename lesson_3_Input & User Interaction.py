@@ -19,8 +19,8 @@ print(type(age))
 
 #Exercise 3 — Two numbers
 
-a = input("enter your first value :")
-b = input("enter your second value :")
+a = input("enter your first value : ")
+b = input("enter your second value : ")
 print(a)
 print(type(a))
 print(b)
