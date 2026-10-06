@@ -50,7 +50,7 @@ Build a strong foundation in Python and eventually use Python
 | `lesson_01_variables.py` | Variables |
 |`lesson_2_data types & type().py` |data types & type() |
 |`lesson_3_Input & user interaction.py`|Input & user interaction|
-
+|`lesson_4_Type Conversion.py`|type conversions|
 
 ---
 
