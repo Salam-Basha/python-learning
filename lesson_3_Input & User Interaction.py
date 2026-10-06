@@ -26,7 +26,7 @@ print(type(a))
 print(b)
 print(type(b))
 
-#Challenge — Personal introduction
+#Challenge  — Personal introduction
 
 name = input("enter your name :")
 age = input("enter your age :")
