@@ -18,7 +18,7 @@ My approach:
 - [x] 1. Python fundamentals & variables
 - [x] 2. Data types & `type()`
 - [x] 3. Input & user interaction
-- [ ] 4. Type conversion
+- [x] 4. Type conversion
 - [ ] 5. Arithmetic operators
 - [ ] 6. Comparison operators
 - [ ] 7. Logical operators
