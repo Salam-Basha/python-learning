@@ -19,7 +19,7 @@ My approach:
 - [x] 2. Data types & `type()`
 - [x] 3. Input & user interaction
 - [x] 4. Type conversion
-- [ ] 5. Arithmetic operators
+- [x] 5. Arithmetic operators
 - [ ] 6. Comparison operators
 - [ ] 7. Logical operators
 - [ ] 8. `if` statements
