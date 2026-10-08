@@ -1,4 +1,4 @@
-#Exercise 1 — Basic comparisons
+#Exercise 1 — Basic comparisons 
 
 a = 20
 b = 10
@@ -12,7 +12,7 @@ print(a<=b)
 
 #Exercise 2 — Age checker
 
-age = int(input("enter age :"))
+age = int(input("enter age : "))
 print(age >= 18)
 
 #Exercise 3 — Marks checker
