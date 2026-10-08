@@ -52,6 +52,10 @@ Build a strong foundation in Python and eventually use Python
 |`lesson_3_Input & user interaction.py`|Input & user interaction|
 |`lesson_4_Type Conversion.py`|type conversions|
 |`lesson_5_Arithmetic Operators.py`| arithmetic operators|
+|`lesson_6_Comparison Operators.py `|Comparison Operators|
+
+
+
 ---
 
 
