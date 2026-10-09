@@ -21,7 +21,7 @@ My approach:
 - [x] 4. Type conversion
 - [x] 5. Arithmetic operators
 - [x] 6. Comparison operators
-- [ ] 7. Logical operators
+- [x] 7. Logical operators
 - [ ] 8. `if` statements
 - [ ] 9. `elif` & `else`
 - [ ] 10. Nested conditions
