@@ -22,7 +22,7 @@ My approach:
 - [x] 5. Arithmetic operators
 - [x] 6. Comparison operators
 - [x] 7. Logical operators
-- [ ] 8. `if` statements
+- [x] 8. `if` statements
 - [ ] 9. `elif` & `else`
 - [ ] 10. Nested conditions
 - [ ] 11. `for` loops
