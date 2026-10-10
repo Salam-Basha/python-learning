@@ -54,7 +54,7 @@ Build a strong foundation in Python and eventually use Python
 |`lesson_5_Arithmetic Operators.py`| arithmetic operators|
 |`lesson_6_Comparison Operators.py `|Comparison Operators|
 |`lesson_7_logical_operators.py`| logical operators |
-
+|`lesson_8_if Statements.py`|if Statements|
 
 ---
 
