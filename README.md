@@ -55,6 +55,7 @@ Build a strong foundation in Python and eventually use Python
 |`lesson_6_Comparison Operators.py `|Comparison Operators|
 |`lesson_7_logical_operators.py`| logical operators |
 |`lesson_8_if Statements.py`|if Statements|
+|`lesson_9_if-else Statements.py`|if-else Statements|
 
 ---
 
