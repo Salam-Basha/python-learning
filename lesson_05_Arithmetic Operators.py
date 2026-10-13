@@ -1,4 +1,4 @@
-#Exercise 1 — Operator practice
+#Exercise 1 —Operator practice
 
 a = 20 
 b = 6
@@ -26,7 +26,7 @@ print(x * y)
 print(x / y)
 print(x % y)
 
-#Challenge — Shopping bill
+#Challenge —Shopping bill
 
 item_price = float(input("enter item price:"))
 quantity = int(input("enter quantity:"))
