@@ -10,7 +10,7 @@ elif marks >= 50:
 else:
     print("fail")
 
-#Exercise 2 — Positive, negative, or zero
+#Exercise 2 — Positive, negative,or zero
 
 number = int(input("enter a value"))
 
@@ -34,7 +34,6 @@ elif age < 59:
 else:
     print("senior")
 
-
 # Exercise 4 — Simple Calculator
 
 a = float(input("Enter first number: "))
@@ -54,7 +53,6 @@ elif op == "/":
         print("Cannot divide by zero")
 else:
     print("Invalid operation")
-
 
 # Challenge — Electricity Consumption
 
