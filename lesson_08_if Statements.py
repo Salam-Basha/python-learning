@@ -1,5 +1,6 @@
 #Exercise 1 — Age checker
 age = int(input("enter your age :"))
+
 if age >= 18:
     print("You are eligible")
 
@@ -25,7 +26,7 @@ number = int(input("enter a value :"))
 if number % 5 == 0:
     print("divisible by 5")
 
-#Challenge — Exam eligibility
+#Challenge — Exam-eligibility
 
 marks = int(input("enter your marks :"))
 attendance = float(input("enter your attendance :"))
