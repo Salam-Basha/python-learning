@@ -1,5 +1,5 @@
 #Exercise 1 — Age checker
-age = int(input("enter your age :"))
+age = int(input("enter your age:"))
 
 if age >= 18:
     print("You are eligible")
@@ -7,11 +7,11 @@ if age >= 18:
 #Exercise 2 — Pass or fail
 
 marks = 65 
-if marks >= 40:
+if marks >= 40 :
     print("pass")
 
 marks = 25
-if marks >= 40:
+if marks >= 40 :
     print("pass")
 
 #Exercise 3 — Positive numbe
