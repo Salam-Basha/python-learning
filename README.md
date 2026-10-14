@@ -24,7 +24,7 @@ My approach:
 - [x] 7. Logical operators
 - [x] 8. `if` statements
 - [x] 9. `elif` & `else`
-- [x] 10. Nested conditions
+- [ ] 10. Nested conditions
 - [ ] 11. `for` loops
 - [ ] 12. `while` loops
 - [ ] 13. `range()`
