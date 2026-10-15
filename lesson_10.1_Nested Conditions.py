@@ -11,6 +11,20 @@ if age >= 18:
 else:
     print("underage ")
 
+#Exercise 2 — Login checker
+
+username = "salam"
+password = "python123"
+user = input("enter your name :")
+
+if user == username:
+    entered_password = input("enter yoour password:")
+    if entered_password == password:
+        print("login successfull")
+    else:
+        print("wrong password")
+else:
+    print("user name not found")
 
 
 
