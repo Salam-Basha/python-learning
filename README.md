@@ -57,7 +57,7 @@ Build a strong foundation in Python and eventually use Python
 |`lesson_8_if Statements.py`|if Statements|
 |`lesson_9_if-else Statements.py`|if-else Statements|
 |`lesson_10_elif Statements.py`|elif Statements|
-|`Nested Conditions.py`| nested Conditions|
+|`lesson_10.3_Nested Conditions.py`| nested Conditions|
 
 
 ---
