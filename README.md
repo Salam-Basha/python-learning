@@ -25,7 +25,7 @@ My approach:
 - [x] 8. `if` statements
 - [x] 9. `elif` & `else`
 - [x] 10. Nested conditions
-- [ ] 11. `for` loops
+- [x] 11. `for` loops
 - [ ] 12. `while` loops
 - [ ] 13. `range()`
 - [ ] 14. `break` & `continue`
