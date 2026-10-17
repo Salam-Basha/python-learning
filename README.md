@@ -199,7 +199,7 @@ Build a strong foundation in Python and eventually use Python
 - [ ] 118. NLP
 - [ ] 119. Generative AI
 - [ ] 120. LLM APIs
-- [ ] 121. Portfolio-quality AI/ML Projects 🚀
+- [x] 121. Portfolio-quality AI/ML Projects 🚀
 
 ---
 -->
