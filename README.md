@@ -89,7 +89,7 @@ Build a strong foundation in Python and eventually use Python
 - [ ] 29. Loops with collections
 - [ ] 30. Comprehensions
 - [ ] 31. Useful built-in functions
-- [x] 32. Exceptions
+- [ ] 32. Exceptions
 - [ ] 33. Files
 - [ ] 34. JSON
 - [ ] 35. Modules & packages
