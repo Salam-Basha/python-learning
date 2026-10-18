@@ -25,7 +25,26 @@ while i <= 10:
 print(total)
 
 
+#Exercise 4 — Password checker
 
+password = "python123"
+entered_password = ""
+
+while entered_password != password:
+    entered_password = input("Enter your password: ")
+
+print("Login successful")
+
+
+#Challenge 🎯 — Number guessing game
+
+number = 7
+guessed_number = 0
+
+while guessed_number != number:
+    guessed_number = int(input("Guess the number: "))
+
+print("Correct, you won!")
 
 
 
