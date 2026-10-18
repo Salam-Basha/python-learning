@@ -59,7 +59,16 @@ Build a strong foundation in Python and eventually use Python
 |`lesson_10_elif Statements.py`|elif Statements|
 |`lesson_10.3_Nested Conditions.py`| nested Conditions|
 |`lesson_11_for Loops.py`|for Loops |
+|`lesson_12_while Loops.py`|while Loops |
 
+
+
+
+
+
+
+
+           
 ---
 
 
