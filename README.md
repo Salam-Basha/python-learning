@@ -206,7 +206,7 @@ Build a strong foundation in Python and eventually use Python
 - [ ] 116. PyTorch
 - [ ] 117. Computer vision
 - [ ] 118. NLP
-- [ ] 119. Generative AI
+- [x] 119. Generative AI
 - [x] 120. LLM APIs
 - [ ] 121. Portfolio-quality AI/ML Projects 🚀
 
