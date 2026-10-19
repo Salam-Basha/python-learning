@@ -27,7 +27,7 @@ My approach:
 - [x] 10. Nested conditions
 - [x] 11. `for` loops
 - [x] 12. `while` loops
-- [ ] 13. `range()`
+- [x] 13. `range()`
 - [ ] 14. `break` & `continue`
 - [ ] 15. Functions
 - [ ] 16. Parameters & arguments
