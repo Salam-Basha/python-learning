@@ -28,7 +28,7 @@ My approach:
 - [x] 11. `for` loops
 - [x] 12. `while` loops
 - [x] 13. `range()`
-- [ ] 14. `break` & `continue`
+- [x] 14. `break` & `continue`
 - [ ] 15. Functions
 - [ ] 16. Parameters & arguments
 - [ ] 17. `return`
