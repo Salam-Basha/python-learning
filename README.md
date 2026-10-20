@@ -199,7 +199,7 @@ Build a strong foundation in Python and eventually use Python
 - [ ] 109. Regression
 - [ ] 110. Classification
 - [ ] 111. Clustering
-- [ ] 112. Model evaluation
+- [x] 112. Model evaluation
 - [ ] 113. Feature engineering
 - [ ] 114. ML pipelines
 - [ ] 115. Neural networks
