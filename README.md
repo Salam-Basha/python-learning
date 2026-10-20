@@ -61,7 +61,7 @@ Build a strong foundation in Python and eventually use Python
 |`lesson_11_for Loops.py`|for Loops |
 |`lesson_12_while Loops.py`|while Loops |
 |`lesson_13_range().py`|range()|
-
+|`lesson_14_break & continue.py`|break & continue|
 
 
 
