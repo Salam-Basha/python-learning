@@ -71,10 +71,6 @@ Build a strong foundation in Python and eventually use Python
            
 ---
 
-
-
-
-
 <!--
 ## Phase 2 — Python Core
 
@@ -199,7 +195,7 @@ Build a strong foundation in Python and eventually use Python
 - [ ] 109. Regression
 - [ ] 110. Classification
 - [ ] 111. Clustering
-- [x] 112. Model evaluation
+- [ ] 112. Model evaluation
 - [ ] 113. Feature engineering
 - [ ] 114. ML pipelines
 - [ ] 115. Neural networks
