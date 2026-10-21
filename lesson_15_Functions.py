@@ -49,7 +49,6 @@ def add(a, b):
 
 add(10, 20)
 
-
 # ==========================================
 # EXERCISE 1 — YOUR FIRST FUNCTION
 # Print "Welcome to Python!" and call the function once.
@@ -72,7 +71,6 @@ def study():
 study()
 study()
 study()
-
 
 # ==========================================
 # EXERCISE 3 — GREET A PERSON
@@ -99,10 +97,10 @@ add_numbers(10, 20)
 add_numbers(7, 8)
 
 
-# ==========================================
+# =========================================
 # CHALLENGE — MULTIPLICATION TABLE
 # Print the multiplication table of a number from 1 to 10.
-# ==========================================
+# =========================================
 
 def multiplication_table(number):
     for i in range(1, 11):
