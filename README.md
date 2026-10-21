@@ -169,7 +169,7 @@ Build a strong foundation in Python and eventually use Python
 - [ ] 89. Greedy algorithms
 - [ ] 90. Dynamic programming
 - [ ] 91. Graph algorithms
-- [ ] 92. DSA Problems & Projects 🎯
+- [x] 92. DSA Problems & Projects 🎯
 
 ---
 
