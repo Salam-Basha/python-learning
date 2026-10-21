@@ -29,7 +29,7 @@ My approach:
 - [x] 12. `while` loops
 - [x] 13. `range()`
 - [x] 14. `break` & `continue`
-- [ ] 15. Functions
+- [x] 15. Functions
 - [ ] 16. Parameters & arguments
 - [ ] 17. `return`
 - [ ] 18. Scope
