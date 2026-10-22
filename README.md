@@ -119,7 +119,7 @@ Build a strong foundation in Python and eventually use Python
 - [ ] 53. HTTP & APIs
 - [ ] 54. `requests`
 - [ ] 55. REST APIs & JSON APIs
-- [ ] 56. Authentication & environment variables
+- [x] 56. Authentication & environment variables
 - [ ] 57. Web scraping
 - [ ] 58. SQLite & SQL
 - [ ] 59. Python + databases
