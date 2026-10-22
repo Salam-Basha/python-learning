@@ -30,7 +30,7 @@ My approach:
 - [x] 13. `range()`
 - [x] 14. `break` & `continue`
 - [x] 15. Functions
-- [ ] 16. Parameters & arguments
+- [x] 16. Parameters & arguments
 - [ ] 17. `return`
 - [ ] 18. Scope
 - [ ] 19. Problem-solving fundamentals
