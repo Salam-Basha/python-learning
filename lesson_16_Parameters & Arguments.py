@@ -221,7 +221,7 @@ power(2, 3)   # 8
 #
 # def multiply(a, b):
 #     print(a * b)
-#
+
 # multiply(5)  # TypeError: b is missing
 
 
@@ -232,13 +232,11 @@ power(2, 3)   # 8
 #
 # greet(username="Salam")  # TypeError
 
-
 # MISTAKE 3: Forgetting the function body
 #
 # def calculate(a, b):
 #     # A function body is required.
 #     pass
-
 
 # MISTAKE 4: Placing a required parameter after a default
 #
@@ -248,7 +246,6 @@ power(2, 3)   # 8
 # Correct:
 # def example(a, b=10):
 #     print(a, b)
-
 
 # MISTAKE 5: Confusing * and **
 #
