@@ -1,3 +1,16 @@
+# ==========================================
+# LESSON 17: RETURN
+# ==========================================
+
+# return sends a value back to the caller.
+#
+# print() displays a value.
+# return gives a value back to the code.
+#
+# return also stops the function immediately.
+
+
+
 
 #Exercise 1 — Return a sum
 #Create add(a, b) that returns the sum. Store the result in answer and print it.
@@ -41,9 +54,14 @@ print(answer)
 
 
 
+# ==========================================
+# COMMON MISTAKES
+# ==========================================
 
-
-
-
+# 1. Defining a function but forgetting to call it.
+# 2. Using print() when you need to return a value.
+# 3. Forgetting that return stops the function.
+# 4. Using / instead of % to check the remainder.
+# 5. A function without return gives None by default.
 
 
