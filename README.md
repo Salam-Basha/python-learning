@@ -31,7 +31,7 @@ My approach:
 - [x] 14. `break` & `continue`
 - [x] 15. Functions
 - [x] 16. Parameters & arguments
-- [ ] 17. `return`
+- [x] 17. `return`
 - [ ] 18. Scope
 - [ ] 19. Problem-solving fundamentals
 - [ ] 20. Beginner Project 🎯
