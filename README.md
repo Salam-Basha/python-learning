@@ -32,7 +32,7 @@ My approach:
 - [x] 15. Functions
 - [x] 16. Parameters & arguments
 - [x] 17. `return`
-- [ ] 18. Scope
+- [x] 18. Scope
 - [ ] 19. Problem-solving fundamentals
 - [ ] 20. Beginner Project 🎯
 
