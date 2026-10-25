@@ -33,8 +33,15 @@ My approach:
 - [x] 16. Parameters & arguments
 - [x] 17. `return`
 - [x] 18. Scope
-- [ ] 19. Problem-solving fundamentals
-- [ ] 20. Beginner Project 🎯
+- [ ] 19. String concatenation
+- [ ] 20. F-strings
+- [ ] 21. String indexing & slicing
+- [ ] 22. String methods
+- [ ] 23. Membership operators (`in`, `not in`)
+- [ ] 24. Identity operators (`is`, `is not`)
+- [ ] 25. Bitwise operators
+- [ ] 26. Problem-solving fundamentals
+- [ ] 27. Beginner Project 🎯
 
 ---
 
