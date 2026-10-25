@@ -33,7 +33,7 @@ My approach:
 - [x] 16. Parameters & arguments
 - [x] 17. `return`
 - [x] 18. Scope
-- [ ] 19. String concatenation
+- [x] 19. String concatenation
 - [ ] 20. F-strings
 - [ ] 21. String indexing & slicing
 - [ ] 22. String methods
