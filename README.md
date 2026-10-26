@@ -74,7 +74,7 @@ Build a strong foundation in Python and eventually use Python
 |`lesson_17_return.py`|return|
 |`lesson_18_ Scope.py`|Scope|
 |`lesson_19_String Concatenation.py`|String Concatenation |
-
+|`lesson_20_F-Strings.py`|F-Strings|
            
 ---
 
