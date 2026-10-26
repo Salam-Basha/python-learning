@@ -34,7 +34,7 @@ My approach:
 - [x] 17. `return`
 - [x] 18. Scope
 - [x] 19. String concatenation
-- [ ] 20. F-strings
+- [x] 20. F-strings
 - [ ] 21. String indexing & slicing
 - [ ] 22. String methods
 - [ ] 23. Membership operators (`in`, `not in`)
