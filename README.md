@@ -84,9 +84,9 @@ Build a strong foundation in Python and eventually use Python
 - [ ] 28. Strings
 - [ ] 29. String methods
 - [ ] 30. Indexing & slicing
-- [ ] 24. Lists
-- [ ] 25. Tuples
-- [ ] 26. Sets
+- [ ] 31. Lists
+- [ ] 32. Tuples
+- [ ] 33. Sets
 - [ ] 27. Dictionaries
 - [ ] 28. Nested data
 - [ ] 29. Loops with collections
