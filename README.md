@@ -81,9 +81,9 @@ Build a strong foundation in Python and eventually use Python
 <!--
 ## Phase 2 — Python Core
 
-- [ ] 21. Strings
-- [ ] 22. String methods
-- [ ] 23. Indexing & slicing
+- [ ] 28. Strings
+- [ ] 29. String methods
+- [ ] 30. Indexing & slicing
 - [ ] 24. Lists
 - [ ] 25. Tuples
 - [ ] 26. Sets
