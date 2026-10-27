@@ -35,7 +35,7 @@ My approach:
 - [x] 18. Scope
 - [x] 19. String concatenation
 - [x] 20. F-strings
-- [ ] 21. String indexing & slicing
+- [x] 21. String indexing & slicing
 - [ ] 22. String methods
 - [ ] 23. Membership operators (`in`, `not in`)
 - [ ] 24. Identity operators (`is`, `is not`)
