@@ -8,8 +8,6 @@
 # word[::2]   -> Every second character
 # word[::-1]  -> Reverse string
 
-
-
 #Exercise 1 — Character Finder
 
 name = "PYTHON"
@@ -29,14 +27,14 @@ print(word[8:11])
 
 #Exercise 3 — Reverse a String
 
-name = input("enter your name")
+name =input("enter your name")
 
 print(name[::-1])
 
 
 #Challenge — Name Analyzer
 
-name = input("enter your name")
+name =input("enter your name")
 
 print(name[0])
 print(name[-1])
