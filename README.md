@@ -91,9 +91,9 @@ Build a strong foundation in Python and eventually use Python
 - [ ] 31. Lists
 - [ ] 32. Tuples
 - [ ] 33. Sets
-- [ ] 27. Dictionaries
-- [ ] 28. Nested data
-- [ ] 29. Loops with collections
+- [ ] 34. Dictionaries
+- [ ] 35. Nested data
+- [ ] 36. Loops with collections
 - [ ] 30. Comprehensions
 - [ ] 31. Useful built-in functions
 - [ ] 32. Exceptions
