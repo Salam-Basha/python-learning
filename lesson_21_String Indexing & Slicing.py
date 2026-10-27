@@ -1,4 +1,3 @@
-
 # LESSON 21: STRING INDEXING & SLICING
 
 # word[0]     -> First character
@@ -22,7 +21,7 @@ print(name[2])
 
 #Exercise 2 — Slicing Practice
 
-word = "PROGRAMMING"
+word ="PROGRAMMING"
 
 print(word[0:4])
 print(word[3:8])
