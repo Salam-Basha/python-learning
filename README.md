@@ -75,7 +75,11 @@ Build a strong foundation in Python and eventually use Python
 |`lesson_18_ Scope.py`|Scope|
 |`lesson_19_String Concatenation.py`|String Concatenation |
 |`lesson_20_F-Strings.py`|F-Strings|
-           
+|`lesson_21_String Indexing & Slicing.py`|String Indexing & Slicing|
+
+
+
+
 ---
 
 <!--
