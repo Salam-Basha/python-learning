@@ -36,7 +36,7 @@ My approach:
 - [x] 19. String concatenation
 - [x] 20. F-strings
 - [x] 21. String indexing & slicing
-- [ ] 22. String methods
+- [x] 22. String methods
 - [ ] 23. Membership operators (`in`, `not in`)
 - [ ] 24. Identity operators (`is`, `is not`)
 - [ ] 25. Bitwise operators
