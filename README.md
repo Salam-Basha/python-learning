@@ -98,10 +98,10 @@ Build a strong foundation in Python and eventually use Python
 - [ ] 38. Useful built-in functions
 - [ ] 39. Exceptions
 - [ ] 40. Files
-- [ ] 34. JSON
-- [ ] 35. Modules & packages
-- [ ] 36. `pip` & virtual environments
-- [ ] 37. Mini Projects 🎯
+- [ ] 41. JSON
+- [ ] 42. Modules & packages
+- [ ] 43. `pip` & virtual environments
+- [ ] 44. Mini Projects 🎯
 
 ---
 
