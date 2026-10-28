@@ -76,7 +76,7 @@ Build a strong foundation in Python and eventually use Python
 |`lesson_19_String Concatenation.py`|String Concatenation |
 |`lesson_20_F-Strings.py`|F-Strings|
 |`lesson_21_String Indexing & Slicing.py`|String Indexing & Slicing|
-
+|`lesson_22_String Methods.py`|String Methods|
 
 
 
