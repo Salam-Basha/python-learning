@@ -107,10 +107,10 @@ Build a strong foundation in Python and eventually use Python
 
 ## Phase 3 — Intermediate Python
 
-- [ ] 38. Object-Oriented Programming
-- [ ] 39. Classes & objects
-- [ ] 40. Inheritance
-- [ ] 41. Polymorphism
+- [ ] 45. Object-Oriented Programming
+- [ ] 46. Classes & objects
+- [ ] 47. Inheritance
+- [ ] 48. Polymorphism
 - [ ] 42. Dunder methods
 - [ ] 43. Iterators & generators
 - [ ] 44. Decorators
