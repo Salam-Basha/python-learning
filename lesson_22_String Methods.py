@@ -15,14 +15,14 @@
 # .join()       -> Join strings
 # len()         -> Count characters
 
-
+#=======================================
 # EXAMPLE
 text = "  hello python  "
 
 print(text.upper())
 print(text.strip())
 print(text.replace("python", "world"))
-
+#========================================
 
 # EXERCISE 1: NAME FORMATTER
 name = "  sALAM bASHA  "
