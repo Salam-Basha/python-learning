@@ -121,7 +121,7 @@ Build a strong foundation in Python and eventually use Python
 - [ ] 49. Debugging
 - [ ] 50. Testing
 - [ ] 51. Clean code & project structure
-- [ ] 52. Intermediate Projects 🎯
+- [ ] 52. Intermediate Projects
 
 ---
 
