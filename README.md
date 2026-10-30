@@ -151,10 +151,10 @@ Build a strong foundation in Python and eventually use Python
 - [ ] 69. Data cleaning & analysis
 - [ ] 70. CSV / Excel
 - [ ] 71. Data visualization
-- [ ] 72. Automation
-- [ ] 73. Web automation
-- [ ] 74. Scheduled scripts
-- [ ] 75. Data & Automation Projects 🎯
+- [x] 72. Automation
+- [x] 73. Web automation
+- [x] 74. Scheduled scripts
+- [x] 75. Data & Automation Projects 🎯
 
 ---
 
