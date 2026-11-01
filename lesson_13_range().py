@@ -2,6 +2,7 @@
 # LESSON 13: range() — QUICK CHEAT SHEET
 # ==========================================
 
+
 # SYNTAX:
 # range(stop)
 # range(start, stop)
@@ -41,7 +42,7 @@ for i in range(10,0,-1):
 print("go!")
 
 
-#Challenge 🎯 — Odd numbers backwards
+#Challenge — Odd numbers backwards
 #Print odd numbers from 19 down to 1 using range().
 
 for i in range(19,0,-2):
