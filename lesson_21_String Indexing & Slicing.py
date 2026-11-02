@@ -1,4 +1,7 @@
+#===================================================
 # LESSON 21: STRING INDEXING & SLICING
+#====================================================
+
 
 # word[0]     -> First character
 # word[-1]    -> Last character
