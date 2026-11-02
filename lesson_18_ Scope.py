@@ -8,6 +8,7 @@
 # Local and global variables can share a name.
 # global keyword: Allows reassignment of a global variable.
 
+#===================================================================
 
 #Exercise 1 — Local scope
 #Create a function show_age() that creates a variable age = 18 and prints it.
