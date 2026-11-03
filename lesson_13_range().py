@@ -2,7 +2,6 @@
 # LESSON 13: range() — QUICK CHEAT SHEET
 # ==========================================
 
-
 # SYNTAX:
 # range(stop)
 # range(start, stop)
@@ -12,6 +11,7 @@
 # The stop value is excluded.
 # range(5) generates: 0, 1, 2, 3, 4
 
+#==========================================
 
 #Exercise 1 — Numbers from 1 to 10
 #Use range() to print the numbers from 1 through 10.
@@ -40,7 +40,6 @@ for i in range(5,51,5):
 for i in range(10,0,-1):
     print(i)
 print("go!")
-
 
 #Challenge — Odd numbers backwards
 #Print odd numbers from 19 down to 1 using range().
