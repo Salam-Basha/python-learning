@@ -90,9 +90,9 @@ for i in range(1, 21):
     print(i)
 
 
-# ==========================================
+# ========================================
 # COMMON MISTAKES
-# ==========================================
+# ========================================
 
 # 1. break stops the entire loop, not just one iteration.
 # 2. continue skips only the current iteration.
