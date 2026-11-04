@@ -30,6 +30,17 @@ if user == username:
 else:
     print("user name not found")
 
+#Exersice 3
+
+number = int(input("enter a value:"))
+
+if number > 0:
+    if number % 2 == 0:
+        print("even number")
+    else:
+        print("odd number")
+else:
+    print("not a positive number")
 
 
 
