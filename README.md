@@ -111,17 +111,17 @@ Build a strong foundation in Python and eventually use Python
 - [ ] 46. Classes & objects
 - [ ] 47. Inheritance
 - [ ] 48. Polymorphism
-- [ ] 42. Dunder methods
-- [ ] 43. Iterators & generators
-- [ ] 44. Decorators
-- [ ] 45. Lambda / `map()` / `filter()`
-- [ ] 46. Regular expressions
-- [ ] 47. Type hints & dataclasses
-- [ ] 48. Logging
-- [ ] 49. Debugging
-- [ ] 50. Testing
-- [ ] 51. Clean code & project structure
-- [ ] 52. Intermediate Projects
+- [ ] 49. Dunder methods
+- [ ] 50. Iterators & generators
+- [ ] 51. Decorators
+- [ ] 52. Lambda / `map()` / `filter()`
+- [ ] 53. Regular expressions
+- [ ] 54. Type hints & dataclasses
+- [ ] 55. Logging
+- [ ] 56. Debugging
+- [ ] 57. Testing
+- [ ] 58. Clean code & project structure
+- [ ] 59. Intermediate Projects
 
 ---
 
