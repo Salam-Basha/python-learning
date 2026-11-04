@@ -53,6 +53,7 @@ print("Lowercase:", username.lower())
 print("Letters and numbers only:", username.isalnum())
 print("Length:", len(username))
 
+#==================================================
 
 # COMMON MISTAKES
 # Methods need parentheses: text.upper()
