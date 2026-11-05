@@ -2,7 +2,6 @@
 # LESSON 19: STRING CONCATENATION
 #=========================================================
 
-
 # + joins strings: "Hello" + "World"
 # Add spaces: "Hello" + " " + "World"
 # Convert numbers: "Age: " + str(18)
@@ -10,7 +9,7 @@
 # input() returns a string.
 # Never use + directly between a string and an integer.
 
-
+#==========================================================
 
 #Exercise 1 — Full Name
 
