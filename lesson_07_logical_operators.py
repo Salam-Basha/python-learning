@@ -2,11 +2,10 @@
 #lesson_07_logical_operators
 #============================================
 
-
 # Exercise 1 — Basic AND
 
-a = 10
-b = 20
+a =10
+b =20
 
 print(a < b and b == 20)
 print(a > b and b == 20)
