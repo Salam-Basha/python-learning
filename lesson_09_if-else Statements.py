@@ -2,6 +2,7 @@
 #if-else Statements
 #======================================
 
+
 #Exercise 1 — Pass or fail
 
 marks = int(input("enter your marks :"))
@@ -9,6 +10,7 @@ if marks >= 40:
     print("pass")
 else:
     print("fail")
+
 
 #Exercise 2 — Voting eligibility
 
@@ -18,6 +20,7 @@ if age >= 18:
 else:
     print("Not eligible to vote")
 
+
 #Exercise 3 — Positive or negative
 
 number = int(input("enter a value :"))
@@ -26,6 +29,7 @@ if number >= 0:
 else:
     print("Negative")
 
+
 #Exercise 4 — Even or odd
 
 number = int(input("enter a value :"))
@@ -33,6 +37,7 @@ if number % 2 == 0:
     print("even")
 else:
     print("odd")
+
 
 #Challenge — Exam eligibility
 
