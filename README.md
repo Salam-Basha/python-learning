@@ -37,7 +37,7 @@ My approach:
 - [x] 20. F-strings
 - [x] 21. String indexing & slicing
 - [x] 22. String methods
-- [ ] 23. Membership operators (`in`, `not in`)
+- [x] 23. Membership operators (`in`, `not in`)
 - [ ] 24. Identity operators (`is`, `is not`)
 - [ ] 25. Bitwise operators
 - [ ] 26. Problem-solving fundamentals
